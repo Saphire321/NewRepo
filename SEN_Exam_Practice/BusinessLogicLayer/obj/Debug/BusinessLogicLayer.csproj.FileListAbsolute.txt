@@ -1,0 +1,9 @@
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

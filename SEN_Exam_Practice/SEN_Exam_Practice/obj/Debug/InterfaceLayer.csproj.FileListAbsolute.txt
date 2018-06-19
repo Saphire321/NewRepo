@@ -1,0 +1,15 @@
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\SEN_Exam_Practice\bin\Debug\SEN_Exam_Practice.exe.config
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\SEN_Exam_Practice\bin\Debug\SEN_Exam_Practice.exe
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\SEN_Exam_Practice\bin\Debug\SEN_Exam_Practice.pdb
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\SEN_Exam_Practice\obj\Debug\InterfaceLayer.Form1.resources
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\SEN_Exam_Practice\obj\Debug\InterfaceLayer.Properties.Resources.resources
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\SEN_Exam_Practice\obj\Debug\InterfaceLayer.csproj.GenerateResource.Cache
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\SEN_Exam_Practice\obj\Debug\SEN_Exam_Practice.exe
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\SEN_Exam_Practice\obj\Debug\SEN_Exam_Practice.pdb
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\SEN_Exam_Practice\obj\Debug\InterfaceLayer.csprojAssemblyReference.cache
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\SEN_Exam_Practice\obj\Debug\InterfaceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\SEN_Exam_Practice\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\SEN_Exam_Practice\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\SEN_Exam_Practice\obj\Debug\InterfaceLayer.csproj.CopyComplete
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\SEN_Exam_Practice\bin\Debug\DataAccessLayer.dll
+C:\Users\Marline\Documents\USB\BComp3\SEN321\SEN_Exam_Practice\SEN_Exam_Practice\bin\Debug\DataAccessLayer.pdb
